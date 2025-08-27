@@ -3,7 +3,8 @@
 
 Welcome to the **Emono's Healthy Lifestyle** SQL project repository! This repository contains all SQL scripts for managing and analyzing **health-focused products, clients, employees, projects, farmers, crops, and sales**. It supports efficient operations, sales tracking, and data-driven decision-making for wellness and nutrition initiatives.
 
-**GitHub Repository:** [Emono's Healthy Lifestyle](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
+**GitHub Repository:** [![Emono's Healthy Lifestyle](https://img.shields.io/badge/Emono's%20Healthy%20Lifestyle-✔️?style=for-the-badge&color=800020&labelColor=F5F5DC)](https://github.com/Lauren-Akhidenor/EMONO-S-HEALTHY-LIFESTYLE)
+
 
 ---
 
